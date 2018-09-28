@@ -9,5 +9,5 @@ Yes, I have already signed up for the Piazza.
 also wanna to be a DJ in a minor bar. 
 我很帅.//
 yeah
-/Users/zuoyuanhao/Desktop/Left/17.jpeg
+https://github.com/yuanhaozuogenius/hello-world/blob/my-branch/17.jpeg
 hahahah
